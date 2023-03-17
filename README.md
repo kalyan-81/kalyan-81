@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, Machine learning, Artificial Intelligence
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Machine learning
-- 📫 How to reach me cherukupallykalyan.202mc016@nitk.edu.in
+- 📫 How to reach me out kalyancheru@gmail.com
 
 <!---
 kalyan-81/kalyan-81 is a ✨ Python basics and Machine learningrepository because its `README.md` (this file) appears on your GitHub profile.
