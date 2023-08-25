@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalyan-81
-- 👀 I’m interested in Data science, Machine learning, Artificial Intelligence, Full Stack Java Developer
-- 🌱 I’m currently working at codetru as a java developer
-- 💞️ I’m looking to collaborate on Full Stack Java Developer
+- 👀 I’m interested in Data science, Machine learning, Artificial Intelligence, Flutter Developer
+- 🌱 I’m currently working at codetru as a flutter developer
+- 💞️ I’m looking to collaborate on Full Stack Developer
 - 📫 How to reach me out kalyancheru@gmail.com
